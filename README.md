@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Hernane</h1>
-<h3 align="center">Olá, meu nome é José Hernane, tenho 19 anos e estudo há 1 anos na área de backend, com especialização em administração de banco de dados, obtida por meio de um curso técnico no Senac.</h3>
+<h3 align="center">Olá, meu nome é José Hernane, tenho 20 anos programador backend, com especialização em administração de banco de dados, desenvolvimento de Sistemas Baseados em Modelos de Linguagem </h3>
 
 - 🌱 I’m currently learning **c#**
 

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Hernane</h1>
 <h3 align="center">Olá, meu nome é José Hernane, tenho 20 anos programador backend, com especialização em administração de banco de dados, desenvolvimento de Sistemas Baseados em Modelos de Linguagem </h3>
 
-- 🌱 I’m currently learning **c#**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jose-hernane-16706b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-hernane-16706b1b6/" height="30" width="40" /></a>

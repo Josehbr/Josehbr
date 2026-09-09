@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm José Hernane</h1>
-<h3 align="center">Olá, meu nome é José Hernane, tenho 20 anos programador backend, com especialização em administração de banco de dados, desenvolvimento de Sistemas Baseados em Modelos de Linguagem </h3>
+# José Hernane
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose-hernane-16706b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-hernane-16706b1b6/" height="30" width="40" /></a>
-</p>
+**AI Engineer** — levo LLMs a produção: agentes em tempo real, RAG multifonte e pipelines de extração com verificação independente do modelo, sobre uma base de backend em Python, Rust e .NET.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Belo Horizonte, Brasil · [josehernane.dev](https://josehernane.dev) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-hernane-16706b1b6/) · [josehernane83@gmail.com](mailto:josehernane83@gmail.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josehbr&show_icons=true&theme=dark&locale=en&layout=compact" alt="josehbr" /></p>
+## Em produção
+
+- **Coaching de IA em tempo real** — ~2 s da transcrição ao insight acionável durante a call. LiveKit, Deepgram em streaming, saída estruturada, Supabase Realtime; 500+ testes e quality gate de segurança no CI.
+- **RAG multifonte** — calls, WhatsApp, GitHub e boards unificados em uma camada de contexto com pgvector, consumida por chat, API e MCP; suíte versionada de evals e custo rastreado via LiteLLM.
+- **Extração verificada para petições jurídicas** — cascata de modelos, auditor independente com modelo e prompt próprios, mais de 20 invariantes determinísticas; 30–90 min de trabalho do advogado em ~2–3 min por caso.
+
+Estudos de caso completos em [josehernane.dev/projetos](https://josehernane.dev/projetos).
+
+## Open source
+
+| Repositório | O que é |
+|---|---|
+| [Tokenizers-RS](https://github.com/Josehbr/Tokenizers-RS) | BPE, WordPiece, SentencePiece-BPE e Unigram LM implementados do zero em Rust, com benchmark de tempo e compressão |
+| [rinha-de-backend-2026](https://github.com/Josehbr/rinha-de-backend-2026) | Detecção de fraude com busca vetorial k-NN em Rust sob 1 CPU e 350 MB — 27º lugar, p99 de 1,46 ms, zero falhas |
+| [Tokenizacao-PMI-BPE](https://github.com/Josehbr/Tokenizacao-PMI-BPE) | O mesmo treinador BPE com seleção por PMI em Python, Rust e C++, comparados com metodologia rígida de bench |
+| [triagem-inteligente-n8n](https://github.com/Josehbr/triagem-inteligente-n8n) | Triagem de mensagens de uma clínica com n8n + LLM — 100% em eval de 20 casos, US$ 0,001 por mensagem |
+| [motor-chat-contextual](https://github.com/Josehbr/motor-chat-contextual) | Backend de chat com RAG + CAG: Flask, LangChain, ChromaDB, Redis e MySQL |
+
+## Escrevo sobre engenharia de IA em produção
+
+- [Antes do prompt: implementei os 4 algoritmos de tokenização dos LLMs em Rust](https://josehernane.dev/blog/antes-do-prompt-tokenizadores-llms-rust)
+- [Rinha de Backend 2026: busca vetorial, Rust e engenharia com IA](https://josehernane.dev/blog/rinha-backend-2026-rust-ia-engenharia)
+- [RAG, CAG ou arquitetura híbrida?](https://josehernane.dev/blog/rag-cag-ou-arquitetura-hibrida)
+- [Observabilidade para agentes em produção](https://josehernane.dev/blog/observabilidade-agentes-producao)
+- [Como medir qualidade, latência e custo](https://josehernane.dev/blog/medir-qualidade-latencia-custo)
+
+## Stack
+
+Python · FastAPI · Rust · C# / .NET · PostgreSQL / pgvector · Supabase · Prefect · LiteLLM · MCP · LiveKit · Deepgram · Docker · pytest / Vitest / Playwright

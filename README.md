@@ -17,9 +17,9 @@ Estudos de caso completos em [josehernane.dev/projetos](https://josehernane.dev/
 | Repositório | O que é |
 |---|---|
 | [Tokenizers-RS](https://github.com/Josehbr/Tokenizers-RS) | BPE, WordPiece, SentencePiece-BPE e Unigram LM implementados do zero em Rust, com benchmark de tempo e compressão |
-| [rinha-de-backend-2026](https://github.com/Josehbr/rinha-de-backend-2026) | Detecção de fraude com busca vetorial k-NN em Rust sob 1 CPU e 350 MB — 27º lugar, p99 de 1,46 ms, zero falhas |
+| [Rinha-de-Backend-2026](https://github.com/Josehbr/Rinha-de-Backend---2026) | Detecção de fraude com busca vetorial k-NN em Rust sob 1 CPU e 350 MB — 27º lugar, p99 de 1,46 ms, zero falhas |
 | [Tokenizacao-PMI-BPE](https://github.com/Josehbr/Tokenizacao-PMI-BPE) | O mesmo treinador BPE com seleção por PMI em Python, Rust e C++, comparados com metodologia rígida de bench |
-| [triagem-inteligente-n8n](https://github.com/Josehbr/triagem-inteligente-n8n) | Triagem de mensagens de uma clínica com n8n + LLM — 100% em eval de 20 casos, US$ 0,001 por mensagem |
+| [triagem-inteligente (n8n)](https://github.com/Josehbr/n8n) | Triagem de mensagens de uma clínica com n8n + LLM — 100% em eval de 20 casos, US$ 0,001 por mensagem |
 | [motor-chat-contextual](https://github.com/Josehbr/motor-chat-contextual) | Backend de chat com RAG + CAG: Flask, LangChain, ChromaDB, Redis e MySQL |
 
 ## Escrevo sobre engenharia de IA em produção

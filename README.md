@@ -1,6 +1,6 @@
 # José Hernane
 
-**AI Engineer** — levo LLMs a produção: agentes em tempo real, RAG multifonte e pipelines de extração com verificação independente do modelo, sobre uma base de backend em Python, Rust e .NET.
+Coloco LLMs em produção: agentes em tempo real, RAG multifonte e pipelines de extração com verificação independente do modelo, sobre uma base de backend em Python, Rust e .NET.
 
 Belo Horizonte, Brasil · [josehernane.dev](https://josehernane.dev) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-hernane-16706b1b6/) · [josehernane83@gmail.com](mailto:josehernane83@gmail.com)
 
@@ -22,7 +22,7 @@ Estudos de caso completos em [josehernane.dev/projetos](https://josehernane.dev/
 | [triagem-inteligente-n8n](https://github.com/Josehbr/triagem-inteligente-n8n) | Triagem de mensagens de uma clínica com n8n + LLM — 100% em eval de 20 casos, US$ 0,001 por mensagem |
 | [motor-chat-contextual](https://github.com/Josehbr/motor-chat-contextual) | Backend de chat com RAG + CAG: Flask, LangChain, ChromaDB, Redis e MySQL |
 
-## Escrevo sobre engenharia de IA em produção
+## Escrevo sobre LLMs em produção
 
 - [Antes do prompt: implementei os 4 algoritmos de tokenização dos LLMs em Rust](https://josehernane.dev/blog/antes-do-prompt-tokenizadores-llms-rust)
 - [Rinha de Backend 2026: busca vetorial, Rust e engenharia com IA](https://josehernane.dev/blog/rinha-backend-2026-rust-ia-engenharia)
